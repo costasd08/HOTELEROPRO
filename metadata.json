@@ -1,0 +1,6 @@
+{
+  "name": "Admin Panel Hotelero",
+  "description": "Una aplicación de panel de control para la gestión de reservas de hotel/propiedad, clientes, finanzas, restaurante e inventarios.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
